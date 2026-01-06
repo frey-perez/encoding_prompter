@@ -1,0 +1,58 @@
+{
+    "constructs": [
+        {
+            "name": "Emotional Awareness",
+            "definition": "Recognition and acknowledgment of one's own emotional states, including naming emotions or describing emotional experiences.",
+            "examples": [
+                "I felt sad when that happened",
+                "I noticed I was getting anxious",
+                "There was a bit of guilt that came in"
+            ]
+        },
+        {
+            "name": "Family Dynamics",
+            "definition": "Description of relationships, interactions, or patterns within family systems, including both nuclear and extended family.",
+            "examples": [
+                "My relationship with my sister has been complicated",
+                "We're really close as a family",
+                "There's tension between my parents"
+            ]
+        },
+        {
+            "name": "Self-Reflection",
+            "definition": "Instances where the speaker examines their own thoughts, behaviors, motivations, or personal growth.",
+            "examples": [
+                "I realized that I need to give more",
+                "Looking back, I think I could have handled it differently",
+                "I've been thinking about why I react that way"
+            ]
+        },
+        {
+            "name": "Interpersonal Conflict",
+            "definition": "Description of disagreements, friction, or tension in relationships with others.",
+            "examples": [
+                "We had a bit of a disagreement",
+                "There's been some friction there",
+                "I've got a bit of a beef with her"
+            ]
+        },
+        {
+            "name": "Coping Strategies",
+            "definition": "Methods or approaches the speaker uses to manage stress, difficult emotions, or challenging situations.",
+            "examples": [
+                "I try to let it go",
+                "I just focus on staying calm",
+                "I give myself space to process"
+            ]
+        },
+        {
+            "name": "Personal Growth Intention",
+            "definition": "Expressed desires or goals for self-improvement, personal development, or positive change.",
+            "examples": [
+                "I want to be a better father",
+                "I'm working on being more patient",
+                "I need to give more to my family"
+            ]
+        }
+    ]
+}
